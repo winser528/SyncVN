@@ -24,15 +24,6 @@ jobs:
           curl -s https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub -o sub
           curl -s https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub -o sub2
           echo "文件下载完成!"
-      - name: Commit and push if changed
-        run: |
-          git add .
-          if ! git diff --staged --quiet; then
-            git commit -m "📦 Auto-sync files [$(date +'%Y-%m-%d %H:%M')]"
-            git push
-          else
-            echo "没有更改，跳过提交"
-          fi
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:

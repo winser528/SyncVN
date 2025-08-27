@@ -9,12 +9,11 @@ jobs:
   build:
     name: Build Images
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
-          fetch-depth: 0
       - name: Download files
         run: |
           rm -f sub sub2

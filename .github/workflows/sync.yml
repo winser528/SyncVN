@@ -1,0 +1,16 @@
+name: Sync GitHub Files
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时一次
+  workflow_dispatch:
+  
+jobs:
+  build:
+    name: Build Images
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Down File
+        run: chmod +x sync_file.sh && bash sync_file.sh

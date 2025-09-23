@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Download files
         run: |
-          rm -f sub sub2
+          rm -f sub sub2 *.m3u
           curl -s https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub -o sub
           curl -s https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub -o sub2
           curl -s https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u -o iptv.m3u

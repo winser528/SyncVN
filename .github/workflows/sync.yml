@@ -22,6 +22,7 @@ jobs:
           curl -s https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u -o iptv.m3u
           curl -s https://raw.githubusercontent.com/ckmah74/iptv/refs/heads/main/IPTV2025 -o iptv_2025.m3u
           curl -s https://github.com/ghokun/tv/blob/main/bin/playlist.m3u -o tv.m3u
+          python m3u2json.py iptv.m3u -o liveChannel.json
           echo "文件下载完成!"
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9

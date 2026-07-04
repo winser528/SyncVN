@@ -2,7 +2,7 @@
     {
         "channelNum": 1,
         "channelName": "安徽卫视",
-        "channelUrl": "https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=3368e4b91783159813",
+        "channelUrl": "https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=cabf32911783176613",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png"
     },
     {
@@ -14,7 +14,7 @@
     {
         "channelNum": 3,
         "channelName": "贵州卫视",
-        "channelUrl": "https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=e60a2e016be044cafa5ff0cd61de3864&txTime=6A48BB3A",
+        "channelUrl": "https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=3e7b897436910b7c2b34210577763364&txTime=6A48FCDA",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png"
     },
     {
@@ -26,25 +26,25 @@
     {
         "channelNum": 5,
         "channelName": "河北卫视",
-        "channelUrl": "https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1783159816&k=9044a54b010a4d88762d1d86e6cd0cfc",
+        "channelUrl": "https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1783176617&k=a58434b2f0f0451114195c9b156f267f",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png"
     },
     {
         "channelNum": 6,
         "channelName": "河南卫视",
-        "channelUrl": "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7135f0f0b28504f8c09f15db163ad325&wsTime=1783167005&wsSession=317dfe51def757a8456fd619-178315260589258&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1172670869891244579",
+        "channelUrl": "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=af5b97be86dd85887b04b96739ae4cfd&wsTime=1783183805&wsSession=3637f37224b6b358b4a1f56a-178316940600830&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168167350152943962",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png"
     },
     {
         "channelNum": 7,
         "channelName": "吉林卫视",
-        "channelUrl": "https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=ba047a817a5b539ed9f042af1a2eea5e&txTime=6A48F832",
+        "channelUrl": "https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=e3d2f0e256b1851926766248c6c339e0&txTime=6A4939CE",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png"
     },
     {
         "channelNum": 8,
         "channelName": "内蒙古卫视",
-        "channelUrl": "https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=cf943b4ffd1c4722adfa571fb788613a",
+        "channelUrl": "https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=b7d70483000e41d9bf21ece7d26a224a",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png"
     },
     {
@@ -62,7 +62,7 @@
     {
         "channelNum": 11,
         "channelName": "西藏卫视",
-        "channelUrl": "https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=7d456ded902106a87d3795aa96b97cb4&time=6a48bfdb",
+        "channelUrl": "https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=a34d2e503645fd90ae870d9ed7bf2295&time=6a49017c",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png"
     },
     {
@@ -74,7 +74,7 @@
     {
         "channelNum": 13,
         "channelName": "浙江卫视",
-        "channelUrl": "https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1783152624-w9871a1ontctfo75l7i4mcgpece8f1gm-0-3eabbbd4d1d9ca83d2456fc038334d06",
+        "channelUrl": "https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1783169420-hks5v5vuo1gl8omxe12i7ox7z36un8e2-0-ce7b579370be77c66581021d742bd64f",
         "channelLogo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png"
     }
 ]
